@@ -5,7 +5,8 @@ http://202.39.28.229:8125/0.ts
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb/gt/56-TVBSHD.png" group-title="港台频道",TVBS精彩台
 http://61.216.10.122:4014/VideoInput/play.ts
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="cctv1.png" group-title="港台频道",民视新闻HD
-http://210.61.56.23/hls/ftvtv/index.m3u8#http://202.39.28.229:8110/0.ts
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#http://202.39.28.229:8110/0.ts
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb/gt/09-CTV.png" group-title="港台频道",中视新闻
 http://202.39.28.229:8112/0.ts
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb/gt/07-TTV.png" group-title="港台频道",台视新闻
