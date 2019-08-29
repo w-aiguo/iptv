@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-name="TVBS 新闻台" tvg-logo="cctv1.png" group-title="港台频道",TVBS新闻台
 http://202.39.28.229:8109/0.ts
 #EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb/gt/42-TVBSGHD.png" group-title="港台频道",TVBS欢乐台
