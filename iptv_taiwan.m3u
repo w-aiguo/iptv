@@ -1,80 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TVBS 新闻台" tvg-logo="cctv1.png" group-title="港台频道",TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS 新闻台" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",TVBS新闻台
 http://202.39.28.229:8109/0.ts
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb/gt/42-TVBSGHD.png" group-title="港台频道",TVBS欢乐台
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-id="none" tvg-logo="http://epg.51zmt.top:8000/tb/gt/42-TVBSGHD.png" group-title="港台频道",TVBS欢乐台
 http://202.39.28.229:8125/0.ts
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb/gt/56-TVBSHD.png" group-title="港台频道",TVBS精彩台
+#EXTINF:-1 tvg-name="TVBS" tvg-id="none" tvg-logo="http://epg.51zmt.top:8000/tb/gt/56-TVBSHD.png" group-title="港台频道",TVBS精彩台
 http://61.216.10.122:4014/VideoInput/play.ts
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="cctv1.png" group-title="港台频道",民视新闻HD
+#EXTINF:-1 tvg-name="民视新闻台" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",民视新闻HD
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #http://202.39.28.229:8110/0.ts
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb/gt/09-CTV.png" group-title="港台频道",中视新闻
+#EXTINF:-1 tvg-name="中视新闻" tvg-id="none" tvg-logo="http://epg.51zmt.top:8000/tb/gt/09-CTV.png" group-title="港台频道",中视新闻
 http://202.39.28.229:8112/0.ts
-#EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb/gt/07-TTV.png" group-title="港台频道",台视新闻
+#EXTINF:-1 tvg-name="台视新闻台" tvg-id="none" tvg-logo="http://epg.51zmt.top:8000/tb/gt/07-TTV.png" group-title="港台频道",台视新闻
 http://202.39.28.229:8111/0.ts
-#EXTINF:-1 tvg-name="台视" tvg-logo="cctv1.png" group-title="港台频道",台视
+#EXTINF:-1 tvg-name="台视" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",台视
 http://61.216.10.122:4037/VideoInput/play.ts
-#EXTINF:-1 tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb/gt/11-CTS.png" group-title="港台频道",华视
+#EXTINF:-1 tvg-name="华视" tvg-id="none" tvg-logo="http://epg.51zmt.top:8000/tb/gt/11-CTS.png" group-title="港台频道",华视
 http://61.216.10.122:4040/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",中视HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",中视HD
 http://202.39.28.229:8113/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",民视HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",民视HD
 http://202.39.28.229:8114/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",公视HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",公视HD
 http://202.39.28.229:8115/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",三立台湾
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",三立台湾
 http://202.39.28.229:8119/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",三立都会
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",三立都会
 http://202.39.28.229:8118/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",中天综合HD
-http://61.216.10.122:4005/VideoInput/play.ts#http://202.39.28.229:8120/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",中天新闻HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",中天综合HD
+http://61.216.10.122:4005/VideoInput/play.ts
+#http://202.39.28.229:8120/0.ts
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",中天新闻HD
 http://61.216.10.122:4006/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",中天娱乐HD
-http://61.216.10.122:4007/VideoInput/play.ts#http://202.39.28.229:8124/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",星卫娱乐台
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",中天娱乐HD
+http://61.216.10.122:4007/VideoInput/play.ts
+#http://202.39.28.229:8124/0.ts
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",星卫娱乐台
 http://202.39.28.229:8123/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",卫视国际
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",卫视国际
 http://202.39.28.229:8127/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",TLC旅游
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",TLC旅游
 http://202.39.28.229:8130/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",CINEMAX
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",CINEMAX
 http://202.39.28.229:8133/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",FXHD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",FXHD
 http://61.216.10.122:4015/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",卫视洋片HD
-http://61.216.10.122:4016/VideoInput/play.ts#http://202.39.28.229:8132/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",星卫HD电影台
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",卫视洋片HD
+http://61.216.10.122:4016/VideoInput/play.ts
+#http://202.39.28.229:8132/0.ts
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",星卫HD电影台
 http://61.216.10.122:4048/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",迪士尼
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",迪士尼
 http://61.216.10.122:4019/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",Discovery
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",Discovery
 http://61.216.10.122:4046/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",Discovery SCI
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",Discovery SCI
 http://202.39.28.229:8128/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",Discovery asia
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",Discovery asia
 http://113.196.177.81:8896/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",Nat Geo
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",Nat Geo
 http://202.39.28.229:8129/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",国家地理频道
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",国家地理频道
 http://61.216.10.122:4020/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森财经新闻
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森财经新闻
 http://210.242.37.154:8000/main
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森新闻HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森新闻HD
 http://210.242.37.155:8000/main
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森新闻HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森新闻HD
 http://220.130.175.25:8000/main
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森亚洲HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森亚洲HD
 http://220.130.175.27:8000/main
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森电影HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森电影HD
 http://61.216.10.122:4035/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森洋片HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森洋片HD
 http://61.216.10.122:4010/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森戏剧HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森戏剧HD
 http://61.216.10.122:4011/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森新闻HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森新闻HD
 http://61.216.10.122:4012/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森综合HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森综合HD
 http://202.39.28.229:8116/0.ts
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1.png" group-title="港台频道",东森超视HD
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="none" tvg-logo="cctv1.png" group-title="港台频道",东森超视HD
 http://202.39.28.229:8117/0.ts
