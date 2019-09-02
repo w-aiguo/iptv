@@ -91,9 +91,10 @@ http://117.169.120.217:8080/live/cctv-15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="cctv17" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv17/jsxb17.png" group-title="高清频道",CCTV-17农业农村[高清]
 http://183.207.248.71:80/cntv/live1/CCTV-17超高清/HD-8000k-1080P-cctv17
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="cctv4k" tvg-logo="cctv4K.png" group-title="蓝光频道",CCTV-4K超高清[浙江移动]
-http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+#http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 #http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
 #http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+http://zb.j19o.cn/sc.php?scn=ys4kcq
 #EXTINF:-1 tvg-id="newtv" tvg-logo="newtvdh.png" group-title="蓝光频道",BesTV4K影院[浙江移动]
 http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 #http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
