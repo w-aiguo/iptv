@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1.png" group-title="普清频道",CCTV-1综合
-http://223.110.242.130:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
+#http://223.110.242.130:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1HD.png" group-title="高清频道",CCTV-1综合[高清]
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1HD.png" group-title="蓝光频道",CCTV-1综合[蓝光]
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="cctv2" tvg-logo="cctv2.png" group-title="普清频道",CCTV-2财经
-http://223.110.242.130:6610/gitv/live1/G_CCTV-2/G_CCTV-2/
+#http://223.110.242.130:6610/gitv/live1/G_CCTV-2/G_CCTV-2/
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="cctv2" tvg-logo="cctv2HD.png" group-title="高清频道",CCTV-2财经[高清]
 http://223.110.242.130:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="cctv2" tvg-logo="cctv2HD.png" group-title="蓝光频道",CCTV-2财经[蓝光]
 http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="cctv3" tvg-logo="cctv3.png" group-title="普清频道",CCTV-3综艺
-http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/
+#http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="cctv3" tvg-logo="cctv3HD.png" group-title="高清频道",CCTV-3综艺[高清]
 http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="cctv3" tvg-logo="cctv3HD.png" group-title="蓝光频道",CCTV-3综艺[蓝光]
@@ -279,54 +279,54 @@ http://223.110.242.130:6610/gitv/live1/G_JSTY/G_JSTY/
 http://223.110.242.130:6610/gitv/live1/G_JSYS/G_JSYS/
 #EXTINF:-1 tvg-id="JSTV-zongyi" tvg-logo="JSTV-zongyi.png" group-title="地方电视台",江苏 - 江苏综艺
 http://223.110.242.130:6610/gitv/live1/G_JSZY/G_JSZY/
-#EXTINF:-1, group-title="地方电视台",江苏 - 无锡都市资讯
+#EXTINF:-1 group-title="地方电视台",江苏 - 无锡都市资讯
 http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
-#EXTINF:-1,group-title="地方电视台",江苏 - 无锡经济
+#EXTINF:-1 group-title="地方电视台",江苏 - 无锡经济
 http://live-wx.wifiwx.com/wxtv5/sd/live.m3u8
-#EXTINF:-1,group-title="地方电视台",江苏 - 无锡生活
+#EXTINF:-1 group-title="地方电视台",江苏 - 无锡生活
 http://live-wx.wifiwx.com/wxtv4/sd/live.m3u8
-#EXTINF:-1,group-title="地方电视台",江苏 - 无锡新闻综合
+#EXTINF:-1 group-title="地方电视台",江苏 - 无锡新闻综合
 http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
-#EXTINF:-1,group-title="地方电视台",江苏 - 无锡娱乐
+#EXTINF:-1 group-title="地方电视台",江苏 - 无锡娱乐
 http://live-wx.wifiwx.com/wxtv2/sd/live.m3u8
-#EXTINF:-1,group-title="地方电视台",江苏 - 宜兴新闻频道
+#EXTINF:-1 group-title="地方电视台",江苏 - 宜兴新闻频道
 http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
-#EXTINF:-1,group-title="地方电视台",广西 - 玉林新闻综合
+#EXTINF:-1 group-title="地方电视台",广西 - 玉林新闻综合
 http://pili-playback.liveyulin.sobeycache.com/yulintai/zb03.m3u8
-#EXTINF:-1,group-title="地方电视台",广西 - 玉林公共
+#EXTINF:-1 group-title="地方电视台",广西 - 玉林公共
 http://pili-playback.liveyulin.sobeycache.com/yulintai/zb02.m3u8
-#EXTINF:-1,group-title="地方电视台",广西 - 玉林知识
+#EXTINF:-1 group-title="地方电视台",广西 - 玉林知识
 http://pili-playback.liveyulin.sobeycache.com/yulintai/zb01.m3u8
 
 #重庆电信
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆新闻
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆新闻
 http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆汽摩
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆汽摩
 http://39.135.15.70:6610/PLTV/88888888/224/3221225736/1/1000.m3u8?IAS
 #http://219.153.252.50/PLTV/88888888/224/3221225642/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆国际
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆国际
 http://219.153.252.50/PLTV/88888888/224/3221225623/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆手持电视
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆手持电视
 http://219.153.252.50/PLTV/88888888/224/3221225624/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆少儿
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆少儿
 http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆公共农村
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆公共农村
 http://219.153.252.50/PLTV/88888888/224/3221225626/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆时尚
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆时尚
 http://219.153.252.50/PLTV/88888888/224/3221225627/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆移动
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆移动
 http://219.153.252.50/PLTV/88888888/224/3221225628/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆生活资讯
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆生活资讯
 http://219.153.252.50/PLTV/88888888/224/3221225629/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆文体娱乐
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆文体娱乐
 http://219.153.252.50/PLTV/88888888/224/3221225630/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆都市
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆都市
 http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆科教
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆科教
 http://219.153.252.50/PLTV/88888888/224/3221225632/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 重庆影视
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆影视
 http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
-#EXTINF:-1,group-title="地方电视台",重庆 - 晴彩重庆
+#EXTINF:-1 group-title="地方电视台",重庆 - 晴彩重庆
 http://219.153.252.50/PLTV/88888888/224/3221225645/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="JSTV-youmankatong" tvg-logo="JSTV-youmankatong.png" group-title="卡通电视",优漫卡通
@@ -353,8 +353,28 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225918/3.m3u8
 http://39.135.15.70:6610/PLTV/88888888/224/3221225786/1/1000.m3u8?IAS
 #EXTINF:-1 tvg-id="besTV" tvg-logo="newtvdh.png" group-title="数字付费电视",besTV影视2[贵州移动]
 http://39.135.15.70:6610/PLTV/88888888/224/3221225787/1/1000.m3u8?IAS
-#EXTINF:-1,group-title="数字付费电视",CHC高清电影[多声道]
+#EXTINF:-1 group-title="数字付费电视",CHC高清电影[多声道]
+#江苏电信rtmp://218.94.137.117/iptv/chchd
+#四川广电(1080P+HEVC),http://60.255.48.199:9090/live/chchd_4000.m3u8
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#(1080P+50fps),http://zb.lxb666.xyz/gzzb.php?id=chchd
+#(限v6),http://tv6.5x8.in/hls/chchd.m3u8
+#(限v6),http://ivi6.bupt.edu.cn/hls/chchd.m3u8
+#(限v6),http://iptv.pdsu.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="数字付费电视",CHC家庭影院[多声道]
+#江苏电信rtmp://218.94.137.117/iptv/chctv
+#四川广电(1080P+HEVC),http://60.255.48.199:9090/live/chcjtyy_4000.m3u8
+rtmp://ivi.bupt.edu.cn/livetv/chctv
+#(限v6),http://tv6.5x8.in/hls/chctv.m3u8
+#(限v6),rtmp://ivi6.bupt.edu.cn/livetv/chctv
+#(限v6),http://iptv.pdsu.edu.cn/hls/chctv.m3u8
+#EXTINF:-1 group-title="数字付费电视",CHC动作电影[多声道]
+#江苏电信rtmp://218.94.137.117/iptv/chcatv
+#四川广电(1080P+HEVC),http://60.255.48.199:9090/live/chcdzdy_4000.m3u8
+rtmp://ivi.bupt.edu.cn/livetv/chcatv
+#(限v6),rtmp://ivi6.bupt.edu.cn/livetv/chcatv
+#(限v6),http://tv6.5x8.in/hls/chcatv.m3u8
+#(限v6),http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="newtv" tvg-logo="newtvdh.png" group-title="数字付费电视",NewTV黑莓动画
 http://223.110.242.130:6610/cntv/live1/donghuawg/donghuawg
 #EXTINF:-1 tvg-id="newtv" tvg-logo="newtvdz.png" group-title="数字付费电视",NewTV动作电影
