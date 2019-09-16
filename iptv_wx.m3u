@@ -1,6 +1,6 @@
 #EXTM3U
-EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1.png" group-title="普清频道",CCTV-1综合
-http://223.110.242.130:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
+#保留#EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1.png" group-title="普清频道",CCTV-1综合
+#保留http://223.110.242.130:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1HD.png" group-title="高清频道",CCTV-1综合[高清]
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1HD.png" group-title="蓝光频道",CCTV-1综合[蓝光]
