@@ -302,33 +302,40 @@ http://pili-playback.liveyulin.sobeycache.com/yulintai/zb01.m3u8
 #重庆电信
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆新闻
 http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆影视
+http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆都市
+http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆时尚
+http://219.153.252.50/PLTV/88888888/224/3221225627/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆文体娱乐
+http://219.153.252.50/PLTV/88888888/224/3221225630/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆公共农村
+http://219.153.252.50/PLTV/88888888/224/3221225626/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆少儿
+http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆科教
+http://219.153.252.50/PLTV/88888888/224/3221225632/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆生活资讯
+http://219.153.252.50/PLTV/88888888/224/3221225629/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆移动公交
+#http://219.153.252.50/PLTV/88888888/224/3221225628/chunklist.m3u8
+http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆移动机场
+http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆手持电视
+http://219.153.252.50/PLTV/88888888/224/3221225624/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆汽摩
 http://39.135.15.70:6610/PLTV/88888888/224/3221225736/1/1000.m3u8?IAS
 #http://219.153.252.50/PLTV/88888888/224/3221225642/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆国际
 http://219.153.252.50/PLTV/88888888/224/3221225623/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆手持电视
-http://219.153.252.50/PLTV/88888888/224/3221225624/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆少儿
-http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆公共农村
-http://219.153.252.50/PLTV/88888888/224/3221225626/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆时尚
-http://219.153.252.50/PLTV/88888888/224/3221225627/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆移动
-http://219.153.252.50/PLTV/88888888/224/3221225628/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆生活资讯
-http://219.153.252.50/PLTV/88888888/224/3221225629/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆文体娱乐
-http://219.153.252.50/PLTV/88888888/224/3221225630/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆都市
-http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆科教
-http://219.153.252.50/PLTV/88888888/224/3221225632/chunklist.m3u8
-#EXTINF:-1 group-title="地方电视台",重庆 - 重庆影视
-http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 晴彩重庆
 http://219.153.252.50/PLTV/88888888/224/3221225645/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 合川综合频道
+http://hechuanlive.cbg.cn:94/ch0.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 合川三江频道
+http://hechuanlive.cbg.cn:94/ch1.m3u8
 
 #EXTINF:-1 tvg-id="JSTV-youmankatong" tvg-logo="JSTV-youmankatong.png" group-title="卡通电视",优漫卡通
 http://223.110.242.130:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
