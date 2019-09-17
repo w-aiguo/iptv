@@ -428,15 +428,15 @@ http://223.110.242.130:6610/cntv/live1/HD-1500k-720P-cmlapo/HD-1500k-720P-cmlapo
 
 #EXTINF:-1 ,↘电视多港台国际源开始↙
 电视多开始
-#EXTINF:-1 ,中视新闻
+#EXTINF:-1 ,中视新闻台
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
 #EXTINF:-1 ,DWTV
 http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.m3u8
 #EXTINF:-1 ,新加坡亚洲新闻台
 http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.m3u8
-#EXTINF:-1 ,寰宇新闻
+#EXTINF:-1 ,寰宇新闻台
 http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.m3u8
-#EXTINF:-1 ,欧洲新闻
+#EXTINF:-1 ,欧洲新闻台
 http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.m3u8
 #EXTINF:-1 ,非凡新闻台
 http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.m3u8
@@ -578,7 +578,7 @@ http://cloud-play.hhalloy.com/live/2f1e104da16f66b93ad4d873326b19eb.m3u8
 http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.m3u8
 #EXTINF:-1 ,Discovery
 http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.m3u8
-#EXTINF:-1 ,Discovery 科学频道
+#EXTINF:-1 ,Discovery科学
 http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.m3u8
 #EXTINF:-1 ,DMAX
 http://cloud-play.hhalloy.com/live/41a76576ae78436eb0951f2aee0c9bda.m3u8
@@ -694,7 +694,7 @@ http://cloud-play.hhalloy.com/live/0b2e19ee2374470b5dede1013afcb4b5.m3u8
 http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.m3u8
 #EXTINF:-1 ,三立都会台
 http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.m3u8
-#EXTINF:-1 ,年代MUCH TV
+#EXTINF:-1 ,年代MUCH
 http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.m3u8
 #EXTINF:-1 ,JET综合台
 http://cloud-play.hhalloy.com/live/c4fcaea7013c6b1d6aef9f1d0e99871e.m3u8
