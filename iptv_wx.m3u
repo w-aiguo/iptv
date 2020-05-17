@@ -44,7 +44,7 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="cctv7" tvg-logo="cctv7.png" group-title="高清频道",CCTV-7国防军事[高清]
 http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="cctv7" tvg-logo="cctv7.png" group-title="蓝光频道",CCTV-7国防军事[蓝光]
-http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8
+http://183.207.248.71:80/cntv/live1/CCTV-7超高清/HD-8000k-1080P-cctv7
 #保留#EXTINF:-1 tvg-name="CCTV8" tvg-id="cctv8" tvg-logo="cctv8.png" group-title="普清频道",CCTV-8电视剧
 #保留http://223.110.242.130:6610/gitv/live1/G_CCTV-8/G_CCTV-8/
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="cctv8" tvg-logo="cctv8HD.png" group-title="高清频道",CCTV-8电视剧[高清]
@@ -62,7 +62,7 @@ http://183.207.248.71:80/cntv/live1/CCTV-9超高清/HD-8000k-1080P-cctv9
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="cctv10" tvg-logo="cctv10HD.png" group-title="高清频道",CCTV-10科教[高清]
 http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="cctv10" tvg-logo="cctv10HD.png" group-title="蓝光频道",CCTV-10科教[蓝光]
-http://112.17.40.140/PLTV/88888888/224/3221226199/index.m3u8
+http://183.207.248.71:80/cntv/live1/CCTV-10超高清/HD-8000k-1080P-cctv10
 #保留#EXTINF:-1 tvg-name="CCTV11" tvg-id="cctv11" tvg-logo="cctv11.png" group-title="普清频道",CCTV-11戏曲
 #保留http://223.110.242.130:6610/gitv/live1/CCTV-11/CCTV-11/
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="cctv11" tvg-logo="cctv11HD.png" group-title="高清频道",CCTV-11戏曲[高清]
@@ -73,21 +73,26 @@ http://117.169.120.217:8080/live/cctv-11/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="cctv12" tvg-logo="cctv12HD.png" group-title="高清频道",CCTV-12社会与法[高清]
 http://223.110.242.130:6610/cntv/live1/cctv-12/cctv-12
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="cctv12" tvg-logo="cctv12HD.png" group-title="蓝光频道",CCTV-12社会与法[蓝光]
-http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
+http://183.207.248.71:80/cntv/live1/CCTV-12超高清/HD-8000k-1080P-cctv12
+#http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
 #保留#EXTINF:-1 tvg-name="CCTV13" tvg-id="cctv13" tvg-logo="cctv13.png" group-title="普清频道",CCTV-13新闻
 #保留http://223.110.242.130:6610/gitv/live1/CCTV-13/CCTV-13/
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="cctv13" tvg-logo="cctv13HD.png" group-title="高清频道",CCTV-13新闻[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #保留#EXTINF:-1 tvg-name="CCTV14" tvg-id="cctvchild" tvg-logo="cctvchild.png" group-title="普清频道",CCTV-14少儿
 #保留http://223.110.242.130:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="cctvchild" tvg-logo="cctvchildHD.png" group-title="高清频道",CCTV-14少儿[高清]
 http://223.110.242.130:6610/cntv/live1/cctv-14/cctv-14
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="cctvchild" tvg-logo="cctvchildHD.png" group-title="蓝光频道",CCTV-14少儿[蓝光]
-http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
+http://183.207.248.71:80/cntv/live1/CCTV-14超高清/HD-8000k-1080P-cctv14
+#http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
 #保留#EXTINF:-1 tvg-name="CCTV15" tvg-id="cctv15" tvg-logo="cctv15HD.png" group-title="普清频道",CCTV-15音乐
 #保留http://223.110.242.130:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="cctv15" tvg-logo="cctv15HD.png" group-title="高清频道",CCTV-15音乐[高清]
 http://117.169.120.217:8080/live/cctv-15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="cctv15" tvg-logo="cctv15HD.png" group-title="蓝光频道",CCTV-15音乐[北京蓝光]
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="cctv17" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv17/jsxb17.png" group-title="高清频道",CCTV-17农业农村[高清]
 http://183.207.248.71:80/cntv/live1/CCTV-17超高清/HD-8000k-1080P-cctv17
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="cctv4k" tvg-logo="cctv4K.png" group-title="蓝光频道",CCTV-4K超高清[浙江移动]
@@ -192,6 +197,8 @@ http://223.110.242.130:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/
 #保留http://223.110.242.130:6610/gitv/live1/SDWS/SDWS/
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="shandong" tvg-logo="shandong-HD.png" group-title="高清频道",山东卫视[高清]
 http://223.110.242.130:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
+#EXTINF:-1 tvg-name="山东卫视" tvg-id="shandong" tvg-logo="shandong-HD.png" group-title="高清频道",山东卫视[蓝光]
+http://223.110.242.130:6610/gitv/live1/G_SHANDONG-CQ/G_SHANDONG-CQ/
 #保留#EXTINF:-1 tvg-name="河南卫视" tvg-id="henan" tvg-logo="henan.png" group-title="普清频道",河南卫视
 #保留http://223.110.242.130:6610/gitv/live1/HENAN/HENAN/
 #EXTINF:-1 tvg-name="河南卫视" tvg-id="henan" tvg-logo="henan-HD.png" group-title="蓝光频道",河南卫视[蓝光]
@@ -212,6 +219,8 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 #保留http://223.110.242.130:6610/gitv/live1/JXWS/JXWS/
 #EXTINF:-1 tvg-name="江西卫视" tvg-id="jiangxi" tvg-logo="jiangxi-HD.png" group-title="蓝光频道",江西卫视[高清]
 http://223.110.242.130:6610/cntv/live1/jiangxistv/jiangxistv
+#EXTINF:-1 tvg-name="江西卫视" tvg-id="jiangxi" tvg-logo="jiangxi-HD.png" group-title="蓝光频道",江西卫视[高清]
+http://39.135.16.142:6060/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
 #保留#EXTINF:-1 tvg-name="东南卫视" tvg-id="dongnan" tvg-logo="dongnan.png" group-title="普清频道",东南卫视
 #保留http://223.110.242.130:6610/gitv/live1/DNWS/DNWS/
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="dongnan" tvg-logo="dongnan-HD.png" group-title="蓝光频道",东南卫视[蓝光]
@@ -305,19 +314,27 @@ http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆影视
 http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆都市
-http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
+http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆时尚
 http://219.153.252.50/PLTV/88888888/224/3221225627/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225636/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆文体娱乐
 http://219.153.252.50/PLTV/88888888/224/3221225630/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225641/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆公共农村
 http://219.153.252.50/PLTV/88888888/224/3221225626/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225647/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆少儿
 http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225646/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆科教
 http://219.153.252.50/PLTV/88888888/224/3221225632/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225639/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆生活资讯
 http://219.153.252.50/PLTV/88888888/224/3221225629/chunklist.m3u8
+#EXTINF:-1 group-title="地方电视台",重庆 - 重庆移动
+http://219.153.252.50/PLTV/88888888/224/3221225643/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆移动公交
 #http://219.153.252.50/PLTV/88888888/224/3221225628/chunklist.m3u8
 http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
@@ -325,13 +342,17 @@ http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
 http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆手持电视
 http://219.153.252.50/PLTV/88888888/224/3221225624/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225637/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆汽摩
 http://39.135.15.70:6610/PLTV/88888888/224/3221225736/1/1000.m3u8?IAS
 #http://219.153.252.50/PLTV/88888888/224/3221225642/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225634/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 重庆国际
 http://219.153.252.50/PLTV/88888888/224/3221225623/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225644/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 晴彩重庆
 http://219.153.252.50/PLTV/88888888/224/3221225645/chunklist.m3u8
+#http://219.153.252.50/PLTV/88888888/224/3221225635/chunklist.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 合川综合频道
 http://hechuanlive.cbg.cn:94/ch0.m3u8
 #EXTINF:-1 group-title="地方电视台",重庆 - 合川三江频道
@@ -348,15 +369,29 @@ http://223.110.242.130:6610/gitv/live1/G_KAKU/G_KAKU/
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-id="TOONMAX" tvg-logo="xdkt.png" group-title="卡通电视",炫动卡通
 http://223.110.242.130:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 #EXTINF:-1 tvg-name="上海纪实" tvg-id="SMG-jishi" tvg-logo="shanghaijs.png" group-title="蓝光频道",上海纪实[蓝光]
-http://183.207.249.35/PLTV/3/224/3221227395/index.m3u8
+http://183.207.248.71:80/cntv/live1/上海纪实频道超高清/HD-8000k-1080P-shanghaijishi
+#http://183.207.249.35/PLTV/3/224/3221227395/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实" tvg-id="btvjishi" tvg-logo="beijingjs.png" group-title="蓝光频道",北京纪实[蓝光]
-http://183.207.249.35/PLTV/3/224/3221227397/index.m3u8
+http://183.207.248.71:80/cntv/live1/北京纪实频道超高清/HD-8000k-1080P-beijingjishi
+#http://183.207.249.35/PLTV/3/224/3221227397/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-id="HN-jishi" tvg-logo="hunanjs.png" group-title="蓝光频道",金鹰纪实[蓝光]
 http://39.135.16.142:6060/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="全纪实" tvg-id="quanjishi" tvg-logo="quanjishi.png" group-title="蓝光频道",全纪实[蓝光]
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-id="huanyudili" tvg-logo="huanyudili.png" group-title="蓝光频道",生活时尚[蓝光]
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225918/3.m3u8
+#EXTINF:-1 tvg-name="求索记录" tvg-id="求索记录" group-title="蓝光频道",华数求索记录[蓝光]
+http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" group-title="蓝光频道",华数求索科学[蓝光]
+http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" group-title="蓝光频道",华数求索动物[蓝光]
+http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
+#EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" group-title="蓝光频道",华数求索生活[蓝光]
+http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 tvg-name="求索科学2" tvg-id="求索科学2" group-title="蓝光频道",未知科技
+http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
+#EXTINF:-1 tvg-name="咪咕4K" tvg-id="咪咕4K" group-title="蓝光频道",咪咕4K
+http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
 #EXTINF:-1 tvg-id="besTV" tvg-logo="newtvdh.png" group-title="数字付费电视",besTV影视1[贵州移动]
 http://39.135.15.70:6610/PLTV/88888888/224/3221225786/1/1000.m3u8?IAS
 #EXTINF:-1 tvg-id="besTV" tvg-logo="newtvdh.png" group-title="数字付费电视",besTV影视2[贵州移动]
