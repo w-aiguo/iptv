@@ -541,6 +541,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8$超清1080P
 深圳卫视,http://222.175.159.226:808/hls/49/index.m3u8$超清1080P
 
+凤凰卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8$江苏移动
 凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
 凤凰卫视,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8$高清1080P
 凤凰卫视,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清540P
@@ -850,6 +851,7 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 
 🇨🇳｜港澳台,#genre#
+凤凰中文,http://ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8$江苏移动8M1080P
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$1080P
 凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8
@@ -865,6 +867,7 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228057/index.m3u8$江苏移动8M1080P
 凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221226922/index.m3u8$江苏移动8M1080P
 
+凤凰资讯,http://ott.js.chinamobile.com/PLTV/3/224/3221228524/index.m3u8$江苏移动8M1080P
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -888,6 +891,7 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228098/index.m3u8$江苏移动8M1080P
 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8$江苏移动8M1080P
 
+凤凰香港台,http://ott.js.chinamobile.com/PLTV/3/224/3221228530/index.m3u8$江苏移动8M1080P
 凤凰香港台,http://120.84.96.78:808/hls/81/index.m3u8
 凤凰香港台,http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8$江苏移动8M1080P
 凤凰香港台,http://ott.mobaibox.com/PLTV/3/224/3221226975/index.m3u8$江苏移动8M1080P
