@@ -897,6 +897,7 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 香港有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 香港有线财经资讯,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
 TVB无线新闻,http://23.237.10.66:16110
+TVB翡翠台,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 TVB翡翠台,http://113.64.147.195:808/hls/67/index.m3u8
 TVB翡翠台,http://113.64.147.145:808/hls/67/index.m3u8
 TVB翡翠台,http://113.64.147.116:808/hls/67/index.m3u8
@@ -972,8 +973,10 @@ BOO,http://23.237.10.66:16420
 公视,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 三立新闻台,http://23.237.10.66:16342
 年代新闻,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+TVBS综合,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 TVBS综合,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS亚洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
+TVBS新闻,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8?blog.ntnas.top
@@ -1516,6 +1519,7 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动
 
 🎬｜影院轮播,#genre#
+江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 欢笑剧场4K,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8$江苏移动HEVC12M
 欢笑剧场4K,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc$江苏移动HEVC15M
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8$超清1080P
