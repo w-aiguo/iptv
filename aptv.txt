@@ -19,6 +19,7 @@ CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8$江苏移动18M4
 CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8$江苏移动34MHDR4K
 CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8$8M1080HEVC
 CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8$江苏移动HEVC16M4K
+CCTV8K超高清,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8$江苏移动HEVC30M4KHDR
 
 CGTN,http://223.110.242.130:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS$江苏移动
 CGTN,http://111.20.33.93/TVOD/88888888/224/3221225745/index.m3u8$超清1080P
@@ -573,19 +574,15 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 
 🎬｜影院轮播,#genre#
 江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-欢笑剧场4K,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8$江苏移动HEVC12M
 
-纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8$江苏移动HEVC16M4K
-纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8$江苏移动HEVC25M4KHDR
-纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8$江苏移动HEVC30M4KHDR
+4KUHD,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8$江苏移动HEVC16M4K
+4KUHD,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8$江苏移动HEVC25M4KHDR
 
 4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8江苏移动HEVC7M4K
-4KUHD,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 
+4KUHD,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 CNC英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
 CNC中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
-
-东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8$超清1080P
 
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
