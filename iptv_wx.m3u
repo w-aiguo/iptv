@@ -1,105 +1,69 @@
 #EXTM3U
-#保留#EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1.png" group-title="普清频道",CCTV-1综合
-#保留http://223.110.242.130:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1HD.png" group-title="高清频道",CCTV-1综合[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="cctv1" tvg-logo="cctv1HD.png" group-title="蓝光频道",CCTV-1综合[蓝光]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-#保留#EXTINF:-1 tvg-name="CCTV2" tvg-id="cctv2" tvg-logo="cctv2.png" group-title="普清频道",CCTV-2财经
-#保留http://223.110.242.130:6610/gitv/live1/G_CCTV-2/G_CCTV-2/
-#EXTINF:-1 tvg-name="CCTV2" tvg-id="cctv2" tvg-logo="cctv2HD.png" group-title="高清频道",CCTV-2财经[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
+http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="cctv2" tvg-logo="cctv2HD.png" group-title="蓝光频道",CCTV-2财经[蓝光]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
-#保留#EXTINF:-1 tvg-name="CCTV3" tvg-id="cctv3" tvg-logo="cctv3.png" group-title="普清频道",CCTV-3综艺
-#保留http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/
-#EXTINF:-1 tvg-name="CCTV3" tvg-id="cctv3" tvg-logo="cctv3HD.png" group-title="高清频道",CCTV-3综艺[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+http://ott.mobaibox.com/PLTV/3/224/3221228118/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="cctv3" tvg-logo="cctv3HD.png" group-title="蓝光频道",CCTV-3综艺[蓝光]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
-#保留#EXTINF:-1 tvg-name="CCTV4" tvg-id="cctv4" tvg-logo="cctv4.png" group-title="普清频道",CCTV-4中文国际
-#保留http://223.110.242.130:6610/gitv/live1/CCTV-4/CCTV-4/
-#EXTINF:-1 tvg-name="CCTV4" tvg-id="cctv4" tvg-logo="cctv4HD.png" group-title="高清频道",CCTV-4中文国际[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+http://ott.mobaibox.com/PLTV/3/224/3221228188/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="cctv4" tvg-logo="cctv4HD.png" group-title="蓝光频道",CCTV-4中文国际[蓝光]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
-#保留#EXTINF:-1 tvg-name="CCTV5" tvg-id="cctv5" tvg-logo="cctv5.png" group-title="普清频道",CCTV-5体育
-#保留http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD/
-#EXTINF:-1 tvg-name="CCTV5" tvg-id="cctv5" tvg-logo="cctv5HD.png" group-title="高清频道",CCTV-5体育[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+http://ott.mobaibox.com/PLTV/3/224/3221228156/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="cctv5" tvg-logo="cctv5HD.png" group-title="蓝光频道",CCTV-5体育[蓝光]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
-#EXTINF:-1 tvg-name="CCTV5+" tvg-id="cctv5plus" tvg-logo="cctv5plusHD.png" group-title="高清频道",CCTV-5+体育赛事[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+http://ott.mobaibox.com/PLTV/3/224/3221227537/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="cctv5plus" tvg-logo="cctv5plusHD.png" group-title="蓝光频道",CCTV-5+体育赛事[蓝光]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
-#保留#EXTINF:-1 tvg-name="CCTV6" tvg-id="cctv6" tvg-logo="cctv6.png" group-title="普清频道",CCTV-6电影
-#保留http://223.110.242.130:6610/gitv/live1/CCTV-6/CCTV-6/
-#EXTINF:-1 tvg-name="CCTV6" tvg-id="cctv6" tvg-logo="cctv6HD.png" group-title="高清频道",CCTV-6电影[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="cctv6" tvg-logo="cctv6HD.png" group-title="蓝光频道",CCTV-6电影[蓝光]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
-#保留#EXTINF:-1 tvg-name="CCTV7" tvg-id="cctv7" tvg-logo="cctv7.png" group-title="普清频道",CCTV-7国防军事
-#保留http://223.110.242.130:6610/gitv/live1/CCTV-7/CCTV-7/
-#EXTINF:-1 tvg-name="CCTV7" tvg-id="cctv7" tvg-logo="cctv7.png" group-title="高清频道",CCTV-7国防军事[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+http://ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="cctv7" tvg-logo="cctv7.png" group-title="蓝光频道",CCTV-7国防军事[蓝光]
-http://183.207.248.71:80/cntv/live1/CCTV-7超高清/HD-8000k-1080P-cctv7
-#保留#EXTINF:-1 tvg-name="CCTV8" tvg-id="cctv8" tvg-logo="cctv8.png" group-title="普清频道",CCTV-8电视剧
-#保留http://223.110.242.130:6610/gitv/live1/G_CCTV-8/G_CCTV-8/
-#EXTINF:-1 tvg-name="CCTV8" tvg-id="cctv8" tvg-logo="cctv8HD.png" group-title="高清频道",CCTV-8电视剧[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+http://ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="cctv8" tvg-logo="cctv8HD.png" group-title="蓝光频道",CCTV-8电视剧[蓝光]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
-#保留#EXTINF:-1 tvg-name="CCTV9" tvg-id="cctvjilu" tvg-logo="cctvjilu.png" group-title="普清频道",CCTV-9纪录
-#保留http://223.110.242.130:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
-#EXTINF:-1 tvg-name="CCTV9" tvg-id="cctvjilu" tvg-logo="cctvjiluHD.png" group-title="高清频道",CCTV-9纪录[高清]
-http://223.110.242.130:6610/cntv/live1/cctv-news/cctv-news
+http://ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="cctvjilu" tvg-logo="cctvjiluHD.png" group-title="蓝光频道",CCTV-9纪录[蓝光]
-http://183.207.248.71:80/cntv/live1/CCTV-9超高清/HD-8000k-1080P-cctv9
-#保留#EXTINF:-1 tvg-name="CCTV10" tvg-id="cctv10" tvg-logo="cctv10.png" group-title="普清频道",CCTV-10科教
-#保留http://223.110.242.130:6610/gitv/live1/CCTV-10/CCTV-10/
-#EXTINF:-1 tvg-name="CCTV10" tvg-id="cctv10" tvg-logo="cctv10HD.png" group-title="高清频道",CCTV-10科教[高清]
-http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+http://ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="cctv10" tvg-logo="cctv10HD.png" group-title="蓝光频道",CCTV-10科教[蓝光]
-http://183.207.248.71:80/cntv/live1/CCTV-10超高清/HD-8000k-1080P-cctv10
-#保留#EXTINF:-1 tvg-name="CCTV11" tvg-id="cctv11" tvg-logo="cctv11.png" group-title="普清频道",CCTV-11戏曲
-#保留http://223.110.242.130:6610/gitv/live1/CCTV-11/CCTV-11/
+http://ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="cctv11" tvg-logo="cctv11HD.png" group-title="高清频道",CCTV-11戏曲[高清]
-#http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
-http://117.169.120.217:8080/live/cctv-11/index.m3u8
-#保留#EXTINF:-1 tvg-name="CCTV12" tvg-id="cctv12" tvg-logo="cctv12.png" group-title="普清频道",CCTV-12社会与法
-#保留http://223.110.242.130:6610/gitv/live1/CCTV-12/CCTV-12/
-#EXTINF:-1 tvg-name="CCTV12" tvg-id="cctv12" tvg-logo="cctv12HD.png" group-title="高清频道",CCTV-12社会与法[高清]
-http://223.110.242.130:6610/cntv/live1/cctv-12/cctv-12
+http://ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="cctv12" tvg-logo="cctv12HD.png" group-title="蓝光频道",CCTV-12社会与法[蓝光]
-http://183.207.248.71:80/cntv/live1/CCTV-12超高清/HD-8000k-1080P-cctv12
-#http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
-#保留#EXTINF:-1 tvg-name="CCTV13" tvg-id="cctv13" tvg-logo="cctv13.png" group-title="普清频道",CCTV-13新闻
-#保留http://223.110.242.130:6610/gitv/live1/CCTV-13/CCTV-13/
+http://ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="cctv13" tvg-logo="cctv13HD.png" group-title="高清频道",CCTV-13新闻[高清]
-#http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#保留#EXTINF:-1 tvg-name="CCTV14" tvg-id="cctvchild" tvg-logo="cctvchild.png" group-title="普清频道",CCTV-14少儿
-#保留http://223.110.242.130:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
-#EXTINF:-1 tvg-name="CCTV14" tvg-id="cctvchild" tvg-logo="cctvchildHD.png" group-title="高清频道",CCTV-14少儿[高清]
-http://223.110.242.130:6610/cntv/live1/cctv-14/cctv-14
+http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="cctvchild" tvg-logo="cctvchildHD.png" group-title="蓝光频道",CCTV-14少儿[蓝光]
-http://183.207.248.71:80/cntv/live1/CCTV-14超高清/HD-8000k-1080P-cctv14
-#http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
-#保留#EXTINF:-1 tvg-name="CCTV15" tvg-id="cctv15" tvg-logo="cctv15HD.png" group-title="普清频道",CCTV-15音乐
-#保留http://223.110.242.130:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
-#EXTINF:-1 tvg-name="CCTV15" tvg-id="cctv15" tvg-logo="cctv15HD.png" group-title="高清频道",CCTV-15音乐[高清]
-http://117.169.120.217:8080/live/cctv-15/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-id="cctv15" tvg-logo="cctv15HD.png" group-title="蓝光频道",CCTV-15音乐[北京蓝光]
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="cctv15" tvg-logo="cctv15HD.png" group-title="蓝光频道",CCTV-15音乐[蓝光]
+http://ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="cctv16" tvg-logo="cctv16HD.png" group-title="蓝光频道",CCTV-16音乐[蓝光]
+http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+#34MHDR4Khttp://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="cctv17" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv17/jsxb17.png" group-title="高清频道",CCTV-17农业农村[高清]
-http://183.207.248.71:80/cntv/live1/CCTV-17超高清/HD-8000k-1080P-cctv17
+http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="cctv4k" tvg-logo="cctv4K.png" group-title="蓝光频道",CCTV-4K超高清[浙江移动]
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 #http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
 #http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #http://39.134.176.157/PLTV/88888888/224/3221226758/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8K" tvg-id="cctv8k" tvg-logo="cctv8K.png" group-title="蓝光频道",CCTV-8K超高清
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+
 #EXTINF:-1 tvg-id="BesTV4K" tvg-logo="newtvdh.png" group-title="蓝光频道",BesTV4K影院[浙江移动]
 http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 #http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
