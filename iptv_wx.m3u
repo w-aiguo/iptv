@@ -64,13 +64,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-id="cctv8k" tvg-logo="cctv8K.png" group-title="央视频道",CCTV-8K超高清
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 
-#EXTINF:-1 tvg-id="BesTV4K" tvg-logo="newtvdh.png" group-title="蓝光频道",BesTV4K影院[浙江移动]
-http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
-#http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-#http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-logo="newtvdh.png" group-title="蓝光频道",纯享4K[江苏移动]
-http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
-
 #EXTINF:-1 tvg-name="中国教育1台" tvg-id="cetv1" tvg-logo="cetv1-HD.png" group-title="央视频道",CETV-1
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225910/3.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-id="cetv2" tvg-logo="cetv2.png" group-title="央视频道",CETV-2
