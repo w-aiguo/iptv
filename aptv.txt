@@ -1,12 +1,17 @@
 🇨🇳｜央视频道,#genre#
+CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8$4K
 CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8$8M1080HEVC
 CCTV2,http://ott.mobaibox.com/PLTV/3/224/3221228118/index.m3u8$8M1080HEVC
+CCTV3,http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8$4K
 CCTV3,http://ott.mobaibox.com/PLTV/3/224/3221228188/index.m3u8$8M1080HEVC
 CCTV4,http://ott.mobaibox.com/PLTV/3/224/3221228156/index.m3u8$7.5M1080HEVC
+CCTV5,http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8$4K
 CCTV5,http://ott.mobaibox.com/PLTV/3/224/3221227537/index.m3u8$Max16M1080
 CCTV5+,http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8$Max16M1080
+CCTV6,http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8$4K
 CCTV6,http://ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8$Max16M1080
 CCTV7,http://ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8$8M1080HEVC
+CCTV8,http://ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8$4K
 CCTV8,http://ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8$Max16M1080
 CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8$8M1080HEVC
 CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8$8M1080HEVC
@@ -20,6 +25,7 @@ CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8$江苏移动34MH
 CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8$8M1080HEVC
 CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8$江苏移动HEVC16M4K
 CCTV8K超高清,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8$江苏移动HEVC30M4KHDR
+未知,http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 
 CGTN,http://223.110.242.130:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS$江苏移动
 CGTN,http://111.20.33.93/TVOD/88888888/224/3221225745/index.m3u8$超清1080P
