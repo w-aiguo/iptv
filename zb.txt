@@ -866,12 +866,7 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 重庆卫视,http://ott.mobaibox.com/PLTV/3/224/3221227632/index.m3u8$4M1080
 重庆卫视,http://ott.mobaibox.com/PLTV/3/224/3221227729/index.m3u8$5.5M1080HEVC
 重庆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8$8M1080
-重庆卫视,http://222.175.159.226:808/hls/54/index.m3u8$超清1080P
-重庆卫视,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000297803.m3u8$超清1080P
-重庆卫视,http://111.20.33.70/TVOD/88888893/224/3221226202/index.m3u8$超清1080P
-重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8$超清1080P
-重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8$超清1080P
-重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆新闻,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新农村,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_18.stream/chunklist.m3u8
 
 🚀｜江苏,#genre#
