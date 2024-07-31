@@ -87,7 +87,7 @@ CCTV8K超高清,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8$江苏�
 
 🚀｜重庆,#genre#
 重庆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8$8M1080
-重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆新闻,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新农村,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_18.stream/chunklist.m3u8
 
 🚀｜江苏,#genre#
