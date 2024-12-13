@@ -21,6 +21,11 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8$江苏移动HEVC
 CCTV8K超高清,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8$江苏移动HEVC30M4KHDR
 未知频道,http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 
+🇨🇳｜港澳台,#genre#
+凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$江苏移动8M1080P
+凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$江苏移动8M1080P
+凤凰香港台,http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8$江苏移动8M1080P
+
 🇨🇳｜卫视频道,#genre#
 
 北京卫视,http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8$Max16M1080
@@ -42,8 +47,6 @@ CCTV8K超高清,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8$江苏�
 广东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8$Max16M1080
 
 深圳卫视,http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8$Max16M1080
-
-凤凰卫视,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$江苏移动8M1080P
 
 山东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8$Max16M1080
 
@@ -78,12 +81,6 @@ CCTV8K超高清,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8$江苏�
 甘肃卫视,http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8$8M1080
 
 新疆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8$4M1080拉伸
-
-🇨🇳｜港澳台,#genre#
-凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$江苏移动8M1080P
-凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$江苏移动8M1080P
-凤凰香港台,http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8$江苏移动8M1080P
-
 
 🚀｜重庆,#genre#
 重庆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8$8M1080
